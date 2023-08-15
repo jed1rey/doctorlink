@@ -10,3 +10,6 @@ Demo: [Clique aqui para acessar o site DoctorLink](https://gianfava.github.io/do
 Características:
  - HTML5 / CSS3/ JavaScript
  - Responsivo (mobile-friendly)
+
+
+Trabalho em grupo apresentado á Faculdade de Tecnologia de São Paulo (FATEC) no primeiro semestre do curso de Desenvolvimento de Software Multiplataforma
