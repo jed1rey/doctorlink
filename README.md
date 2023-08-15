@@ -12,4 +12,4 @@ Características:
  - Responsivo (mobile-friendly)
 
 
-## Trabalho em grupo apresentado á Faculdade de Tecnologia de São Paulo (FATEC) no primeiro semestre do curso de Desenvolvimento de Software Multiplataforma
+#### Trabalho em grupo apresentado á Faculdade de Tecnologia de São Paulo (FATEC) no primeiro semestre do curso de Desenvolvimento de Software Multiplataforma
